@@ -99,15 +99,15 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.144.188:8081/ravi/repository/web_based_app-proxyrepo/</url>
+	      <url>http://15.206.148.41:8081/repository/web_based_app_release/</url>
 	    </repository>
-	    <!--
+	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://15.206.148.41:8081/repository/web_based_app-Snapshot/</url>
 	    </snapshotRepository>
-	    -->
+	    
 	</distributionManagement>
 	
 	<build>
